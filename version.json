@@ -1,16 +1,16 @@
 {
     "app":  "Inventario Red",
     "channel":  "stable",
-    "version":  "1.4.14",
+    "version":  "1.4.15",
     "min_supported_version":  "1.0.0",
-    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.14_release.zip",
-    "sha256":  "a6c0636781d331f123a1d813b0d1ab34a73c334f9dc384781dd7fb7c14fa68d4",
-    "size_bytes":  69937576,
+    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.15_release.zip",
+    "sha256":  "6c10cf03f855bd3adecb250c35829274a891db00206d0508a115a8ec5d67fe32",
+    "size_bytes":  70479397,
     "published_at":  "2026-07-06",
     "notes":  [
-                  "Bloqueo de borrado de maestros que aun estan usados por registros.",
-                  "Nueva pestana Acerca de con version, fuente de datos, mejoras y busqueda de actualizaciones.",
-                  "Aclaracion integrada del guardado automatico y la sincronizacion con SharePoint/OneDrive."
+                  "El actualizador grafico ahora descarga, verifica, instala y reinicia desde una sola ventana.",
+                  "La app ya no descarga paquetes por su cuenta: solo avisa y abre el actualizador.",
+                  "Se elimina el boton Actualizar app de la toolbar para dejar la accion en Acerca de."
               ],
     "preserve_paths":  [
                            "data/",
