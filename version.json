@@ -1,16 +1,16 @@
 {
     "app":  "Inventario Red",
     "channel":  "stable",
-    "version":  "1.4.12",
+    "version":  "1.4.13",
     "min_supported_version":  "1.0.0",
-    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.12_release.zip",
-    "sha256":  "72f58d141706e98333c9fd87c28d8d3d9b77e652fb17b373aa20843a72012a73",
-    "size_bytes":  59713834,
+    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.13_release.zip",
+    "sha256":  "df7287ee7c1e1288dae986e1a6a02e1dbad33e4de2ac69b2fddc6508400f7283",
+    "size_bytes":  69932176,
     "published_at":  "2026-07-06",
     "notes":  [
-                  "Correccion del manifiesto de actualizaciones para evitar fallos por BOM UTF-8.",
-                  "Lectura de version.json compatible con UTF-8 y UTF-8 con BOM.",
-                  "Fallback interno a la URL oficial del repositorio de actualizaciones."
+                  "Icono multirresolucion simplificado sin rayitas interiores para mejorar baja resolucion.",
+                  "Actualizador grafico independiente, sin PowerShell visible para el usuario.",
+                  "Carga de icono corregida en aplicacion empaquetada."
               ],
     "preserve_paths":  [
                            "data/",
