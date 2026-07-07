@@ -1,16 +1,16 @@
 {
     "app":  "Inventario Red",
     "channel":  "stable",
-    "version":  "1.4.16",
+    "version":  "1.4.17",
     "min_supported_version":  "1.0.0",
-    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.16_release.zip",
-    "sha256":  "4786fdae78e62eed9ad3f6d8a1b9addde81fdb10c55c486b39f89f56f34f958a",
-    "size_bytes":  70480895,
-    "published_at":  "2026-07-06",
+    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.17_release.zip",
+    "sha256":  "49b27fadd40e802e843e1943a7638607b84d49cfa070a286ff593900be8bcf1e",
+    "size_bytes":  70480971,
+    "published_at":  "2026-07-07",
     "notes":  [
-                  "Correccion critica de arranque: se restaura hashlib para calcular la huella del Excel.",
-                  "Mantiene el actualizador grafico con descarga, verificacion, instalacion y reinicio.",
-                  "Version de reparacion para equipos actualizados a 1.4.15."
+                  "Filtros rapidos redisenados en formato legible de dos columnas.",
+                  "Feedback visual inmediato en botones y acciones de toolbar.",
+                  "Mensajes de estado mas claros al limpiar filtros, cambiar tema o cancelar acciones."
               ],
     "preserve_paths":  [
                            "data/",
