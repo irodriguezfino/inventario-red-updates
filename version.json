@@ -1,16 +1,16 @@
 {
     "app":  "Inventario Red",
     "channel":  "stable",
-    "version":  "1.4.25",
+    "version":  "1.4.26",
     "min_supported_version":  "1.0.0",
-    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.25_release.zip",
-    "sha256":  "4ff4986510023821e360321cdffcf273551d573af491fb90b6ffdc6bbb638e37",
-    "size_bytes":  47962412,
+    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.26_release.zip",
+    "sha256":  "cb1c27ba67e98c71a28ac9e088dc6698f02022f16ae3e2f11fb84e28c98ed09d",
+    "size_bytes":  47968720,
     "published_at":  "2026-07-07",
     "notes":  [
-                  "Muestra de forma preferente el SVG exportado junto al .drawio para maxima fidelidad.",
-                  "Corrige el timeout tardio y mantiene visible el ultimo sinoptico correcto ante fallos.",
-                  "Mejora el fallback nativo con estilos, etiquetas HTML y conectores ortogonales."
+                  "Anade modo Auto/SVG/Draw.io para controlar la visualizacion del sinoptico.",
+                  "Superpone nombres completos cuando el SVG viene exportado con texto HTML no compatible.",
+                  "Incorpora busqueda, resaltado y apertura directa del SVG renderizado."
               ],
     "preserve_paths":  [
                            "data/",
