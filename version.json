@@ -1,16 +1,16 @@
 {
     "app":  "Inventario Red",
     "channel":  "stable",
-    "version":  "1.4.21",
+    "version":  "1.4.22",
     "min_supported_version":  "1.0.0",
-    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.21_release.zip",
-    "sha256":  "7960c1fd0fd3f7746d847645cfdc7fbe73aebc700c26ae9672f612ad25e5372f",
-    "size_bytes":  58428051,
+    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.22_release.zip",
+    "sha256":  "f43e04b5eca6f44cc57cd212f4116d0481c1e35c803a189ad5ca31dc7490c182",
+    "size_bytes":  58429789,
     "published_at":  "2026-07-07",
     "notes":  [
-                  "Reparacion de arranque tras actualizar a 1.4.20.",
-                  "Evita que openpyxl cargue modulos numpy residuales o incompatibles.",
-                  "Mantiene las mejoras visuales y funcionales de Nuevo registro y Maestros."
+                  "Los maestros recien anadidos quedan visibles y seleccionados aunque hubiera filtros activos.",
+                  "Deshacer vuelve a funcionar correctamente al editar switches y VLAN maestras.",
+                  "Editar maestros en uso actualiza tambien los registros relacionados."
               ],
     "preserve_paths":  [
                            "data/",
