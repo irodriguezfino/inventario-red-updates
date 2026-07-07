@@ -1,16 +1,16 @@
 {
     "app":  "Inventario Red",
     "channel":  "stable",
-    "version":  "1.4.18",
+    "version":  "1.4.19",
     "min_supported_version":  "1.0.0",
-    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.18_release.zip",
-    "sha256":  "bf2343da40477fb4ab79cc803db55d4b8c3b0c60044d956b2cd1e139bc3a0575",
-    "size_bytes":  70486752,
+    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.19_release.zip",
+    "sha256":  "61e83f4e6555c332fc4eeb45cb4da90f40ad102c205dbea870d79173d02f713e",
+    "size_bytes":  70498033,
     "published_at":  "2026-07-07",
     "notes":  [
-                  "Correccion del cierre de la aplicacion antes de instalar actualizaciones.",
-                  "Actualizador mas robusto: espera, solicita cierre y fuerza cierre solo si es necesario.",
-                  "Mantiene las mejoras visuales de filtros rapidos y feedback de botones."
+                  "Updater 2.0 con soporte incremental y respaldo automatico al paquete completo.",
+                  "Nueva opcion para actualizar al cerrar, diagnostico, restauracion de backups y auditoria.",
+                  "Correccion del boton claro/oscuro y columnas de inventario ajustadas al contenido."
               ],
     "preserve_paths":  [
                            "data/",
