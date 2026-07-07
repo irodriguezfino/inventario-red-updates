@@ -1,16 +1,16 @@
 {
     "app":  "Inventario Red",
     "channel":  "stable",
-    "version":  "1.4.19",
+    "version":  "1.4.20",
     "min_supported_version":  "1.0.0",
-    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.19_release.zip",
-    "sha256":  "61e83f4e6555c332fc4eeb45cb4da90f40ad102c205dbea870d79173d02f713e",
-    "size_bytes":  70498033,
+    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.20_release.zip",
+    "sha256":  "a5595ae6c925e6521ac458a716f0e785b4d660a6f08fe960519fc60c60398eaf",
+    "size_bytes":  58425950,
     "published_at":  "2026-07-07",
     "notes":  [
-                  "Updater 2.0 con soporte incremental y respaldo automatico al paquete completo.",
-                  "Nueva opcion para actualizar al cerrar, diagnostico, restauracion de backups y auditoria.",
-                  "Correccion del boton claro/oscuro y columnas de inventario ajustadas al contenido."
+                  "Toolbar oculta en Nuevo registro y Maestros para evitar acciones sin utilidad.",
+                  "Orden alfabetico por cabecera en switches y VLAN maestras.",
+                  "Sincronizacion bidireccional entre ubicacion y switch, limpieza completa de campos y ajustes visuales."
               ],
     "preserve_paths":  [
                            "data/",
