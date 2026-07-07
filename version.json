@@ -1,16 +1,16 @@
 {
     "app":  "Inventario Red",
     "channel":  "stable",
-    "version":  "1.4.22",
+    "version":  "1.4.23",
     "min_supported_version":  "1.0.0",
-    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.22_release.zip",
-    "sha256":  "f43e04b5eca6f44cc57cd212f4116d0481c1e35c803a189ad5ca31dc7490c182",
-    "size_bytes":  58429789,
+    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.23_release.zip",
+    "sha256":  "389dcb2fa4efe4dfd95d226c6a2d30f312b3795b9db77f919d573f4271362c2e",
+    "size_bytes":  58436132,
     "published_at":  "2026-07-07",
     "notes":  [
-                  "Los maestros recien anadidos quedan visibles y seleccionados aunque hubiera filtros activos.",
-                  "Deshacer vuelve a funcionar correctamente al editar switches y VLAN maestras.",
-                  "Editar maestros en uso actualiza tambien los registros relacionados."
+                  "Nueva pestana Sinoptico entre Maestros y Acerca de.",
+                  "Carga archivos .drawio desde la misma carpeta sincronizada que el Excel activo.",
+                  "Visor integrado con seleccion, refresco y apertura del archivo o carpeta."
               ],
     "preserve_paths":  [
                            "data/",
