@@ -1,16 +1,16 @@
 {
     "app":  "Inventario Red",
     "channel":  "stable",
-    "version":  "1.4.24",
+    "version":  "1.4.25",
     "min_supported_version":  "1.0.0",
-    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.24_release.zip",
-    "sha256":  "baf8116bf8c604b32e266b37a5767b7779cb5bebc68b2c7bb7577d4dc87a1207",
-    "size_bytes":  47790920,
+    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.25_release.zip",
+    "sha256":  "4ff4986510023821e360321cdffcf273551d573af491fb90b6ffdc6bbb638e37",
+    "size_bytes":  47962412,
     "published_at":  "2026-07-07",
     "notes":  [
-                  "Corrige cuelgues del Sinoptico con archivos SharePoint/OneDrive solo en linea.",
-                  "Mejora el encuadre, el tamano de etiquetas y los controles de zoom del visor.",
-                  "Oculta la toolbar en Sinoptico para ganar espacio de visualizacion."
+                  "Muestra de forma preferente el SVG exportado junto al .drawio para maxima fidelidad.",
+                  "Corrige el timeout tardio y mantiene visible el ultimo sinoptico correcto ante fallos.",
+                  "Mejora el fallback nativo con estilos, etiquetas HTML y conectores ortogonales."
               ],
     "preserve_paths":  [
                            "data/",
