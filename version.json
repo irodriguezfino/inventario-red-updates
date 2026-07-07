@@ -1,16 +1,16 @@
 {
     "app":  "Inventario Red",
     "channel":  "stable",
-    "version":  "1.4.17",
+    "version":  "1.4.18",
     "min_supported_version":  "1.0.0",
-    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.17_release.zip",
-    "sha256":  "49b27fadd40e802e843e1943a7638607b84d49cfa070a286ff593900be8bcf1e",
-    "size_bytes":  70480971,
+    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.18_release.zip",
+    "sha256":  "bf2343da40477fb4ab79cc803db55d4b8c3b0c60044d956b2cd1e139bc3a0575",
+    "size_bytes":  70486752,
     "published_at":  "2026-07-07",
     "notes":  [
-                  "Filtros rapidos redisenados en formato legible de dos columnas.",
-                  "Feedback visual inmediato en botones y acciones de toolbar.",
-                  "Mensajes de estado mas claros al limpiar filtros, cambiar tema o cancelar acciones."
+                  "Correccion del cierre de la aplicacion antes de instalar actualizaciones.",
+                  "Actualizador mas robusto: espera, solicita cierre y fuerza cierre solo si es necesario.",
+                  "Mantiene las mejoras visuales de filtros rapidos y feedback de botones."
               ],
     "preserve_paths":  [
                            "data/",
