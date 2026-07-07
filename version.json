@@ -1,16 +1,16 @@
 {
     "app":  "Inventario Red",
     "channel":  "stable",
-    "version":  "1.4.15",
+    "version":  "1.4.16",
     "min_supported_version":  "1.0.0",
-    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.15_release.zip",
-    "sha256":  "6c10cf03f855bd3adecb250c35829274a891db00206d0508a115a8ec5d67fe32",
-    "size_bytes":  70479397,
+    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.16_release.zip",
+    "sha256":  "4786fdae78e62eed9ad3f6d8a1b9addde81fdb10c55c486b39f89f56f34f958a",
+    "size_bytes":  70480895,
     "published_at":  "2026-07-06",
     "notes":  [
-                  "El actualizador grafico ahora descarga, verifica, instala y reinicia desde una sola ventana.",
-                  "La app ya no descarga paquetes por su cuenta: solo avisa y abre el actualizador.",
-                  "Se elimina el boton Actualizar app de la toolbar para dejar la accion en Acerca de."
+                  "Correccion critica de arranque: se restaura hashlib para calcular la huella del Excel.",
+                  "Mantiene el actualizador grafico con descarga, verificacion, instalacion y reinicio.",
+                  "Version de reparacion para equipos actualizados a 1.4.15."
               ],
     "preserve_paths":  [
                            "data/",
