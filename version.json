@@ -1,16 +1,16 @@
 {
     "app":  "Inventario Red",
     "channel":  "stable",
-    "version":  "1.4.20",
+    "version":  "1.4.21",
     "min_supported_version":  "1.0.0",
-    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.20_release.zip",
-    "sha256":  "a5595ae6c925e6521ac458a716f0e785b4d660a6f08fe960519fc60c60398eaf",
-    "size_bytes":  58425950,
+    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.21_release.zip",
+    "sha256":  "7960c1fd0fd3f7746d847645cfdc7fbe73aebc700c26ae9672f612ad25e5372f",
+    "size_bytes":  58428051,
     "published_at":  "2026-07-07",
     "notes":  [
-                  "Toolbar oculta en Nuevo registro y Maestros para evitar acciones sin utilidad.",
-                  "Orden alfabetico por cabecera en switches y VLAN maestras.",
-                  "Sincronizacion bidireccional entre ubicacion y switch, limpieza completa de campos y ajustes visuales."
+                  "Reparacion de arranque tras actualizar a 1.4.20.",
+                  "Evita que openpyxl cargue modulos numpy residuales o incompatibles.",
+                  "Mantiene las mejoras visuales y funcionales de Nuevo registro y Maestros."
               ],
     "preserve_paths":  [
                            "data/",
