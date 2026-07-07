@@ -1,16 +1,16 @@
 {
     "app":  "Inventario Red",
     "channel":  "stable",
-    "version":  "1.4.23",
+    "version":  "1.4.24",
     "min_supported_version":  "1.0.0",
-    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.23_release.zip",
-    "sha256":  "389dcb2fa4efe4dfd95d226c6a2d30f312b3795b9db77f919d573f4271362c2e",
-    "size_bytes":  58436132,
+    "package_url":  "https://raw.githubusercontent.com/irodriguezfino/inventario-red-updates/main/InventarioRed_1.4.24_release.zip",
+    "sha256":  "baf8116bf8c604b32e266b37a5767b7779cb5bebc68b2c7bb7577d4dc87a1207",
+    "size_bytes":  47790920,
     "published_at":  "2026-07-07",
     "notes":  [
-                  "Nueva pestana Sinoptico entre Maestros y Acerca de.",
-                  "Carga archivos .drawio desde la misma carpeta sincronizada que el Excel activo.",
-                  "Visor integrado con seleccion, refresco y apertura del archivo o carpeta."
+                  "Corrige cuelgues del Sinoptico con archivos SharePoint/OneDrive solo en linea.",
+                  "Mejora el encuadre, el tamano de etiquetas y los controles de zoom del visor.",
+                  "Oculta la toolbar en Sinoptico para ganar espacio de visualizacion."
               ],
     "preserve_paths":  [
                            "data/",
